@@ -20,7 +20,7 @@ This will clone the repositoty into your local folder
  CSS
  Git()
 ### Live Site
-View [live]()
+View [live]() https://leaclaire-003.github.io/ANITASS-KITCHEN/
 
 ### MIT Licence
 This project is under the license:
