@@ -23,4 +23,4 @@ This will clone the repositoty into your local folder
 View [live]() https://leaclaire-003.github.io/ANITASS-KITCHEN/
 
 ### MIT Licence
-This project is under the license:
+This project is under the license:https://github.com/leaclaire-003/ANITASS-KITCHEN/blob/main/LICENSE
